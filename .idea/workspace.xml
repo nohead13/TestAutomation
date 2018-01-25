@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d4442d7-26a2-4bfd-9fea-78b6d2df5daf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516799106393.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516799106393.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516799970656.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516799970656.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516800164266.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516800164266.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516803463667.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516803463667.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516804511205.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516804511205.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516804535827.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516804535827.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516892958620.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516892958620.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516894562350.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516894562350.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516894704198.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516894704198.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516900297215.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516900297215.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516900999982.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516900999982.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516901051563.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516901051563.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516901389340.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516901389340.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516902535015.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516902535015.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903366220.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903366220.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903486812.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903486812.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903544675.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903544675.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903613336.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903613336.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903649906.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903649906.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903718075.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516903718075.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516904017989.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516904017989.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516904146104.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516904146104.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516904301443.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516904301443.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516904689592.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516904689592.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516907282652.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516907282652.0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516907656320.0.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1516907656320.0.png" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -147,8 +96,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -591,6 +540,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="3360" height="1867" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -610,7 +560,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44977427" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44977427" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1224,16 +1174,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/co/uk/Be2/ui/tests/userSignUp/SignUpAsMaleFemaleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5">
@@ -1250,10 +1190,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/co/uk/Be2/ui/tests/userSignUp/SignUpAsMaleFemaleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
