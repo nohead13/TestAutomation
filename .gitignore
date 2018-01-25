@@ -1,0 +1,7 @@
+
+.idea/*
+*/target/
+*.iml
+firefox
+*/build/
+.DS_Store
