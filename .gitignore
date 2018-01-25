@@ -3,6 +3,6 @@
 */target/
 *.iml
 firefox
-*/build/
+*/build/*
 .DS_Store
 
