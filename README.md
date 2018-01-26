@@ -7,7 +7,7 @@
 * [x] JUnit
 * [x] IntelliJ IDEA
 * [x] Maven
-* [ ] Guice (google inject)* not implemented
+* [ ] Guice (google inject)
 
 ### Requested:
 * Create the UI tests for check signup and login.
